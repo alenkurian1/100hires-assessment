@@ -1,60 +1,61 @@
 # Research Sources
 
-Topic:
-LinkedIn Organic Content Strategy for B2B SaaS
+## 1. Amanda Natividad
 
-Goal:
-Research leading practitioners who actively create content and teach LinkedIn growth strategies for B2B SaaS businesses.
+LinkedIn: https://www.linkedin.com/in/amandanat/
+Research Date: June 2026
+Annotation: B2B content marketing expert focused on audience building and content distribution.
 
-## 1. Justin Welsh
+## 2. Austin Belcak
 
-LinkedIn:
-https://www.linkedin.com/in/justinwelsh/
+LinkedIn: https://www.linkedin.com/in/austinbelcak/
+Research Date: June 2026
+Annotation: Career growth and personal branding expert known for content-driven audience growth.
 
-Why Selected:
-Known for LinkedIn growth systems and content frameworks.
+## 3. Chris Walker
 
-Collected:
-- 3 LinkedIn post summaries
+LinkedIn: https://www.linkedin.com/in/chriswalker171/
+Research Date: June 2026
+Annotation: B2B demand generation specialist and founder of Refine Labs.
 
-## 2. Mandy McEwen
-Why Selected:
-Social selling expert.
+## 4. Dave Gerhardt
 
-## 3. Richard van der Blom
-Why Selected:
-LinkedIn algorithm researcher.
+LinkedIn: https://www.linkedin.com/in/davegerhardt/
+Research Date: June 2026
+Annotation: B2B marketing leader focused on brand building and community growth.
 
-## 4. Jasmin Alic
-Why Selected:
-LinkedIn content strategist.
+## 5. Jasmin Alic
 
-## 5. Lara Acosta
-Why Selected:
-Personal branding expert.
+LinkedIn: https://www.linkedin.com/in/jasminalic/
+Research Date: June 2026
+Annotation: Personal branding and content marketing strategist.
 
-## 6. Austin Belcak
-Why Selected:
-LinkedIn growth specialist.
-## 7. Chris Walker
+## 6. Justin Welsh
 
-LinkedIn:
-https://www.linkedin.com/in/chriswalker171/
+LinkedIn: https://www.linkedin.com/in/justinwelsh/
+Research Date: June 2026
+Annotation: LinkedIn growth expert and solopreneur content creator.
 
-Why Selected:
-Leading B2B demand generation expert.
+## 7. Lara Acosta
 
-Collected:
-- 3 LinkedIn post summaries
+LinkedIn: https://www.linkedin.com/in/laraacosta/
+Research Date: June 2026
+Annotation: LinkedIn creator focused on audience engagement and personal branding.
 
-## 8. Dave Gerhardt
-Why Selected:
-B2B content marketing expert.
+## 8. Mandy McEwen
 
-## 9. Ross Simmonds
-Why Selected:
-Content distribution expert.
+LinkedIn: https://www.linkedin.com/in/mandymcewen/
+Research Date: June 2026
+Annotation: Social selling and LinkedIn lead generation specialist.
 
-## 10. Amanda Natividad
-Why Selected:
-Audience growth specialist.
+## 9. Richard van der Blom
+
+LinkedIn: https://www.linkedin.com/in/richardvanderblom/
+Research Date: June 2026
+Annotation: LinkedIn algorithm researcher and content performance analyst.
+
+## 10. Ross Simmonds
+
+LinkedIn: https://www.linkedin.com/in/rosssimmonds/
+Research Date: June 2026
+Annotation: Content distribution and B2B growth marketing expert.

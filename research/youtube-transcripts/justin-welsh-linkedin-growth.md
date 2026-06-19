@@ -1,19 +1,22 @@
-# LinkedIn Growth Strategy
-
-Speaker:
-Justin Welsh
+# Justin Welsh - LinkedIn Growth Strategy
 
 Source:
-YouTube
+YouTube - Justin Welsh
 
-Key Takeaways
+Topic:
+Growing an Audience on LinkedIn
 
-1. Consistency is more important than perfection.
-2. Focus on serving one audience.
-3. Build a repeatable content system.
-4. Repurpose content across multiple platforms.
-5. Long-term audience growth comes from trust.
+Transcript Summary:
 
-Summary
+Justin Welsh discusses how consistent content creation can help professionals build authority and grow an audience. He recommends sharing personal experiences, lessons learned, and actionable insights.
 
-This video explains how professionals can grow their LinkedIn audience through consistent publishing, niche positioning, and content systems.
+Key Takeaways:
+
+- Post consistently.
+- Focus on a specific niche.
+- Create content that provides value.
+- Build trust before selling products or services.
+
+Why It Matters:
+
+LinkedIn can become a major channel for personal branding, lead generation, and business growth.
